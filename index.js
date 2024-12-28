@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["🎧 Listening to VIBRANCE"];
-const statusTypes = [ 'online'];
+const statusTypes = [ 'online' ];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
